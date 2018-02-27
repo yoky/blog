@@ -11,4 +11,4 @@ about my life，my work，my study，etc。
 
 
 **2018.2.27**     星期二   农历正月十二  大雾霾  北京 ❤️❤️
-[跨域从入门到玩转](https://github.com/yoky/blog/issues/2)
+[跨域知识总结（包含面试的所有点）](https://github.com/yoky/blog/issues/2)
